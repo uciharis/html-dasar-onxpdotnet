@@ -19,6 +19,7 @@ table {
 
 #tbl {
     border-radius: 10px;
+    background-color: var(--biru);
 }
 
 input {
