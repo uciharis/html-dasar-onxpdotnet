@@ -1,0 +1,12 @@
+:root {
+    --biru: rgb(133, 133, 231);
+    --putih: rgb(230, 216, 192);
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: var(--biru);
+}
