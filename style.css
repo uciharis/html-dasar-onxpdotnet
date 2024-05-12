@@ -10,3 +10,15 @@ h1 {
 h2 {
     color: var(--biru);
 }
+
+table {
+    border: 1px black dashed;
+    border-radius: 8px;
+    margin: 2px;
+    padding: 5px;
+}
+
+input {
+    padding: 5px;
+    margin: 5px;
+}
