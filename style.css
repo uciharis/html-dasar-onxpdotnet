@@ -13,9 +13,12 @@ h2 {
 
 table {
     border: 1px black dashed;
-    border-radius: 8px;
     margin: 2px;
     padding: 5px;
+}
+
+#tbl {
+    border-radius: 10px;
 }
 
 input {
