@@ -11,6 +11,10 @@ h2 {
     color: var(--biru);
 }
 
+h3 {
+    color: brown;
+}
+
 table {
     border: 1px black dashed;
     margin: 2px;
